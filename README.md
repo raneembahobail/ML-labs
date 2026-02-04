@@ -1,5 +1,5 @@
 # ML-labs
 
-#Table of contents
+# Table of contents
 
-- [lab2] (#Lab2)
+- [lab2](#lab2)
