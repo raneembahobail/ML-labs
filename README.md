@@ -7,4 +7,5 @@
 - [lab4](#lab4)
 - [lab6](#lab6)
 - [lab7](#lab7)
+- [lab8](#lab8)
 
